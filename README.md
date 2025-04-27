@@ -18,6 +18,3 @@
     Create contracts, verify their authenticity, and manage your digital keys.
 🤝 Contributing
     Contributions are welcome! Feel free to open issues or pull requests to enhance the project.
-
-📄 License
-    This project is licensed under the MIT License.
